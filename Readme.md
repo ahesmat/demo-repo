@@ -5,3 +5,7 @@ I think I don't have to make such a change anymore. This is only to understand w
 # One More Change
 
 That change has been made locally on my machine!
+
+# Local Development 
+
+1. Open index.html in your browser.
