@@ -1,3 +1,3 @@
-# Second Change
+# Final Change
 
-This is my second change I have applied to my git repository!
+I think I don't have to make such a change anymore. This is only to understand what's happening!
